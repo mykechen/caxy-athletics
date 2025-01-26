@@ -1,7 +1,7 @@
 # caxy-athletics
 
 <video width="320" height="240" controls>
-  <source src="Caxy Athletics Demo.mp4" type="video/mp4">
+  <source src="[Caxy Athletics Demo.mp4](https://github.com/mykechen/caxy-athletics/blob/main/Caxy%20Athletics%20Demo.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
